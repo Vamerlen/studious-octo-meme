@@ -15,6 +15,11 @@ dl,
 dd {
   margin: 0; }
 
+.huf{
+  background-position: top right;
+
+}
+
 ul[role='list'],
 ol[role='list'] {
   list-style: none; }
